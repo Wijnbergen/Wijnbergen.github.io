@@ -17,17 +17,13 @@ Hi! Welcom to my personal webpage. I am currently a PhD student at the universit
 
 ### Contact information
 
+<ul>
+  <li>email: p.wijnbergen@rug.nl </li>
+  <li> <a href="https://scholar.google.com/citations?user=IsKwXSkAAAAJ&hl=en&oi=sra"> Google Scholar</a> </li>
+  <li> <a href="https://orcid.org/0000-0003-2743-6552"> Orcid</a> </li>
+</ul> 
 
 
-Hier plaats ik dan wat tekst over mij. Blablabla.
-Nog meer teskt wat dan ook. 
-
----
-
-### Background information
-
-Hier plaats ik dan wat tekst over mij. Blablabla.
-Nog meer teskt wat dan ook. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
