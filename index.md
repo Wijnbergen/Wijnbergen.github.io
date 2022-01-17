@@ -8,7 +8,7 @@ Hi! Welcom to my personal webpage. I am currently a PhD student at the universit
 
 <ul>
   <li>Differential algebraic euations. </li>
-  <li>Switched systems<\li>
+  <li>Switched systems</li>
   <li>Optimal control</li>
     <li>Geometric control</li>
 </ul> 
