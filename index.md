@@ -30,9 +30,9 @@ Hi! Welcom to my personal webpage. I am currently a PhD student at the universit
 ### Journal Publications
 
 <ul> 
-  <li> Wijnbergen, Paul, and Stephan Trenn. <a href="https://www.sciencedirect.com/science/article/pii/S0167691120302528">Impulse-free interval-stabilization of switched differential algebraic equations.</a> Systems &amp Control Letters 149 (2021): 104870.</li>
-  <li> Wijnbergen, Paul, Mark Jeeninga, and Bart Besselink. <a href="https://www.sciencedirect.com/science/article/pii/S0167691121000840">Nonlinear spacing policies for vehicle platoons: A geometric approach to decentralized control.</a> Systems &amp Control Letters 153 (2021): 104954.</li>
-  <li> Wijnbergen, Paul, and Bart Besselink. <a href="https://www.sciencedirect.com/science/article/pii/S016769112030178X">Existence of decentralized controllers for vehicle platoons: On the role of spacing policies and available measurements.</a> Systems &amp Control Letters 145 (2020): 104796. </li>
+  <li> Wijnbergen, Paul, and Stephan Trenn. <a href="https://www.sciencedirect.com/science/article/pii/S0167691120302528">Impulse-free interval-stabilization of switched differential algebraic equations.</a> Systems & Control Letters 149 (2021): 104870.</li>
+  <li> Wijnbergen, Paul, Mark Jeeninga, and Bart Besselink. <a href="https://www.sciencedirect.com/science/article/pii/S0167691121000840">Nonlinear spacing policies for vehicle platoons: A geometric approach to decentralized control.</a> Systems & Control Letters 153 (2021): 104954.</li>
+  <li> Wijnbergen, Paul, and Bart Besselink. <a href="https://www.sciencedirect.com/science/article/pii/S016769112030178X">Existence of decentralized controllers for vehicle platoons: On the role of spacing policies and available measurements.</a> Systems & Control Letters 145 (2020): 104796. </li>
 </ul>
 
 ---
