@@ -1,6 +1,6 @@
 ## About me
 
-Hi! Welcom to my personal webpage. I am currently a PhD student at the university of Groningen in the group of Systems and Control and Applied analysis under the supervision of Prof. dr. Stephan Trenn.  Before starting my PhD I studied applied mathematics at the university of Groningen with a specialization in systems and control. 
+Hi! Welcome to my personal webpage. I am currently a PhD student at the university of Groningen in the group of Systems and Control and Applied analysis under the supervision of Prof. dr. Stephan Trenn.  My main research focus at the moment is optimal control and impulse controllabillity of switched differential algebraic equations and on the side have done some research on the vehicle platooning problem. Before starting my PhD I studied applied mathematics at the university of Groningen with a specialization in systems and control. 
 
 ---
 
