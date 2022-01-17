@@ -40,7 +40,7 @@ Hi! Welcom to my personal webpage. I am currently a PhD student at the universit
 ### Conference contributions
 
 <ul>
-  <li>Wijnbergen, Paul, Mark Jeeninga, and Stephan Trenn. <a =href="https://www.sciencedirect.com/science/article/pii/S2405896320333322">On stabilizability of switched differential algebraic equations.</a> IFAC-PapersOnLine 53.2 (2020): 4304-4309. </li>
+  <li>Wijnbergen, Paul, Mark Jeeninga, and Stephan Trenn. <a href="https://www.sciencedirect.com/science/article/pii/S2405896320333322">On stabilizability of switched differential algebraic equations.</a> IFAC-PapersOnLine 53.2 (2020): 4304-4309. </li>
   <li>Wijnbergen, Paul, and Stephan Trenn. <a href="https://ieeexplore.ieee.org/iel7/9137088/9143588/09143713.pdf?casa_token=dKA2JC2-nhoAAAAA:NGPwH6I2icfZOV91_LgwGH-efg5jPTvtYdgUoT9RjbDQZDCGO-8EPxqctdknR3_Nzj4EIk4D5-yIuQ">Impulse controllability of switched differential-algebraic equations.</a> 2020 European Control Conference (ECC). IEEE, 2020. </li>
 </ul>
 --
