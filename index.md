@@ -1,34 +1,30 @@
-## Journal Publications
+## About me
+
+Hier plaats ik dan wat tekst over mij. Blablabla.
+Nog meer teskt wat dan ook. 
 
 ---
 
-### Category Name 1 
+### Research interests 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Hier plaats ik dan wat tekst over mij. Blablabla.
+Nog meer teskt wat dan ook. 
 
 ---
 
-### Category Name 2
+### Contact information
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
+
+Hier plaats ik dan wat tekst over mij. Blablabla.
+Nog meer teskt wat dan ook. 
 ---
 
+### Background information
 
-
+Hier plaats ik dan wat tekst over mij. Blablabla.
+Nog meer teskt wat dan ook. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
